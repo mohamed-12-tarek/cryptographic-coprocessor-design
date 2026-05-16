@@ -1,6 +1,8 @@
 # 16-bit Cryptographic Coprocessor
 
-> **Faculty of Engineering · Zagazig University** > **Supervised by: Dr. Howida Abd AlLatif**
+>**Faculty of Engineering
+>· Zagazig University** >
+>**Supervised by: Dr. Howida Abd AlLatif**
 
 ![Language: VHDL](https://img.shields.io/badge/LANGUAGE-VHDL-blue)
 ![ISA: 12 Instructions](https://img.shields.io/badge/ISA-12_INSTRUCTIONS-emerald)
