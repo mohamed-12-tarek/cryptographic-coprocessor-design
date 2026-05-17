@@ -1,14 +1,21 @@
+<div align="center">
+
 # 16-bit Cryptographic Coprocessor
 
->**Faculty of Engineering
->· Zagazig University** >
->**Supervised by: Dr. Howida Abd AlLatif**
+### A Modular VHDL Hardware Accelerator for Cryptographic Operations
 
-![Language: VHDL](https://img.shields.io/badge/LANGUAGE-VHDL-blue)
-![ISA: 12 Instructions](https://img.shields.io/badge/ISA-12_INSTRUCTIONS-emerald)
-![Data Width: 16-Bit](https://img.shields.io/badge/DATA_WIDTH-16--BIT-coral)
-![Simulation: Active-HDL](https://img.shields.io/badge/SIMULATION-ACTIVE--HDL-blueviolet)
-![Status: Verified](https://img.shields.io/badge/STATUS-VERIFIED%20%E2%9C%93-brightgreen)
+*Faculty of Engineering · Zagazig University*  
+**Supervised by: Dr. Howida Abd AlLatif**
+
+<br>
+
+![Language: VHDL](https://img.shields.io/badge/LANGUAGE-VHDL-0A66C2?style=for-the-badge&logo=v)
+![ISA: 12 Instructions](https://img.shields.io/badge/ISA-12_INSTRUCTIONS-16a34a?style=for-the-badge)
+![Data Width: 16-Bit](https://img.shields.io/badge/DATA_WIDTH-16--BIT-f97316?style=for-the-badge)
+![Simulation: Active-HDL](https://img.shields.io/badge/SIMULATION-ACTIVE--HDL-7c3aed?style=for-the-badge)
+![Status: Verified](https://img.shields.io/badge/STATUS-VERIFIED_SUCCESSFULLY-22c55e?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -316,3 +323,26 @@ Developed in VHDL as a hardware cryptographic coprocessor project focused on:
 * Computer Architecture
 * Cryptographic Hardware Acceleration
 * FPGA-Oriented Synchronous Systems
+
+---
+
+<div align="center">
+
+# 16-bit Cryptographic Coprocessor
+
+### A Modular VHDL Hardware Accelerator for Cryptographic Operations
+
+**Faculty of Engineering · Zagazig University**
+
+*Supervised by Dr. Howida Abd AlLatif*
+
+<br>
+
+![VHDL](https://img.shields.io/badge/VHDL-Digital%20Design-2ea0fb?style=for-the-badge)
+![Sim](https://img.shields.io/badge/Tool-Active--HDL-a78bfa?style=for-the-badge)
+![ISA](https://img.shields.io/badge/ISA-12%20Instructions-00c896?style=for-the-badge)
+![Modules](https://img.shields.io/badge/Modules-7%20RTL%20%2B%207%20TB-ff6b6b?style=for-the-badge)
+
+</div>
+
+---
