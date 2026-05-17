@@ -326,6 +326,45 @@ Developed in VHDL as a hardware cryptographic coprocessor project focused on:
 
 ---
 
+## Team
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mohamed-12-tarek">
+        <img src="https://github.com/mohamed-12-tarek.png" width="150" style="border-radius:50%"/><br/>
+        <sub>mohamed-12-tarek</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mo-Bassem">
+        <img src="https://github.com/Mo-Bassem.png" width="150" style="border-radius:50%"/><br/>
+        <sub>Mo-Bassem</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MohamedAttia2005">
+        <img src="https://github.com/MohamedAttia2005.png" width="150" style="border-radius:50%"/><br/>
+        <sub>MohamedAttia2005</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MuhammadKhairy">
+        <img src="https://github.com/MuhammadKhairy.png" width="150" style="border-radius:50%"/><br/>
+        <sub>MuhammadKhairy</sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/dfult856">
+        <img src="https://github.com/dfult856.png" width="150" style="border-radius:50%"/><br/>
+        <sub>dfult856</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
 
 # 16-bit Cryptographic Coprocessor
